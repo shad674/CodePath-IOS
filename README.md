@@ -2,7 +2,7 @@
 
 **MyTipCalculator** is a tip calculator application for iOS.
 
-Submitted by: **Shad Reyes**
+Submitted by: **Shad Gabrielle Reyes**
 
 Time spent: **1** hours spent in total
 
